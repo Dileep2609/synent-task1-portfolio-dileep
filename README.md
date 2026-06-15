@@ -176,9 +176,7 @@ Create a professional personal portfolio website that showcases:
 
 🔗 YouTube Video Link:
 
-```text
-Add Your YouTube Video Link Here
-```
+https://youtu.be/aNBmSxfJ8es
 
 ---
 
@@ -188,15 +186,7 @@ Add Your YouTube Video Link Here
 
 🔗 Live Website Link:
 
-```text
-Add Your GitHub Pages / Netlify Link Here
-```
-
-Example:
-
-```text
 https://dileep2609.github.io/synent-task1-portfolio-dileep/
-```
 
 ---
 
@@ -206,9 +196,7 @@ https://dileep2609.github.io/synent-task1-portfolio-dileep/
 
 🔗 Blog Link:
 
-```text
-Add Your LinkedIn Blog Post Link Here
-```
+https://medium.com/@dileepguguloth2005/my-internship-experience-at-synent-technologies-f3e27fa41924
 
 ---
 
